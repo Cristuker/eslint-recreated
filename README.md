@@ -1,4 +1,4 @@
-Eslint recreated
+# Eslint recreated
 
 This projects is a clone from eslint using node libs astring, chalk and espree.
 
@@ -21,3 +21,4 @@ The output is in a *.linted.js* file.
 
 Class: [ESLint Reimagined: Creating a Linter from Scratch || Erick Wendel](https://www.youtube.com/watch?v=AvXe5_xZmeg)
 
+<p align="center">Made with ❤️ by <strong><a href="https://cristiansilva.dev/" target="blank" >Cristian</></p></strong>
